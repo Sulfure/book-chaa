@@ -1,7 +1,7 @@
 ---
-upload_path: "/content/"
-frontmatter_file_url_template: "/content/"
-body_file_url_template: "/content/"
+upload_path: "/book-chaa/content/"
+frontmatter_file_url_template: "/book-chaa/content/"
+body_file_url_template: "/book-chaa/content/"
 new_page_extension: md
 auto_deploy: false
 admin_path: 
